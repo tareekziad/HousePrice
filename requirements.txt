@@ -1,8 +1,8 @@
-joblib
-numpy
-pandas
+scikit-learn==1.2.2
+joblib==1.2.0
+numpy==1.23.5
+pandas==1.5.3
 streamlit
 xgboost
 category_encoders
-scikit-learn
 imblearn
