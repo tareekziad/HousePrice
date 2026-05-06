@@ -2,6 +2,6 @@ joblib
 numpy
 pandas
 streamlit
-sklearn
+scikit-learn
 imblearn
 category_encoders
