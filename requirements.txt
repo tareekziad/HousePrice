@@ -5,3 +5,4 @@ streamlit
 seaborn
 category_encoders
 xgboost
+imblearn
