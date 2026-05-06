@@ -3,4 +3,5 @@ numpy
 pandas
 streamlit
 imblearn
-xgboostcategory_encoders
+xgboost
+category_encoders
