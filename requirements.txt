@@ -1,8 +1,6 @@
-joblib
-numpy
-pandas
-streamlit
-seaborn
-category_encoders
-xgboost
+joblib==1.5.1
+numpy==2.4.4
+pandas==3.0.2
+streamlit==1.49.1
 imblearn
+xgboostcategory_encoders
