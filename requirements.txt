@@ -1,0 +1,7 @@
+joblib
+numpy
+pandas
+streamlit
+seaborn
+category_encoders
+xgboost
