@@ -2,6 +2,6 @@ joblib
 numpy
 pandas
 streamlit
-sklearn==1.6.1
+sklearn
 imblearn
 category_encoders
