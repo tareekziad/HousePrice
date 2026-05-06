@@ -233,7 +233,7 @@ st.markdown(f"""
 
 
 # ── Predict ───────────────────────────────────────────────────────────────────
-model = joblib.load('model.pkl')
+model = joblib.load('model.h5')
 
 if st.button('✨  Estimate Property Value'):
     with st.spinner('Calculating...'):
