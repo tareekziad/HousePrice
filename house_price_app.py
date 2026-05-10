@@ -236,7 +236,7 @@ st.markdown(f"""
 
 
 # ── Predict ───────────────────────────────────────────────────────────────────
-model = joblib.load('xgboost.h5')
+model = joblib.load('xgb_model.h5')
 
 if st.button('✨  Estimate Property Value'):
     with st.spinner('Calculating...'):
