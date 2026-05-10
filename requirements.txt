@@ -2,6 +2,6 @@ category_encoders
 joblib
 numpy
 pandas
-scikit_learn
+scikit_learn==1.6.1
 streamlit
 xgboost
